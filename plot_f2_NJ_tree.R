@@ -45,7 +45,7 @@ to_keep <- sapply(eligible$node, function(nd) {
 
 clade_markers <- eligible[to_keep, ]
 
-# colors for cultures (ATU 2.1 in original publications)
+# colors for cultures (ATU 2.1 in original publication)
 culture_cols <- c(
   "Asturian"              = "#E41A1C",
   "Azilian"               = "#377EB8",
@@ -74,7 +74,7 @@ culture_cols <- c(
 
 
 
-# color and shape for sectors/time slices
+# color and shape for groups (called sectors/time slices in original publication)
 group_cols <- c(
   "East_11-8_kaBP"        = "olivedrab1",
   "East_14-11_kaBP"       = "olivedrab3",
