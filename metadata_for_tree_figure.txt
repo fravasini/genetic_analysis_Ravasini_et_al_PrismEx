@@ -1,0 +1,172 @@
+Sample_name	Labels	group	Date	Lat	Long	locality	culture
+AAT001	AAT001      Abri des Autours      Beuronian	North-West_11-8_kaBP	10835	50.2	4.89	Abri des Autours	Beuronian
+AC16	AC16      Arene Candide       Epigravettian	South_14-11_kaBP	12756	44.1618	8.326389	Arene Candide 	Epigravettian
+Aveline_3	Aveline_3      Avelines Hole       Maglemose	North-West_11-8_kaBP	10546	51.324706	-2.753248	Avelines Hole 	Maglemose
+Aveline_9	Aveline_9      Avelines Hole       Maglemose	North-West_11-8_kaBP	10393	51.324706	-2.753248	Avelines Hole 	Maglemose
+BDB001	BDB001      Bad-Dürrenberg       Maglemose	North-West_11-8_kaBP	8600	51.3	12.07	Bad-Dürrenberg 	Maglemose
+BAL051	BAL051      Balma Guilanyà       Azilian	North-West_14-11_kaBP	13015	42.085341	1.601683	Balma Guilanyà 	Azilian
+Bockstein	Bockstein      Bockstein       Beuronian	North-West_11-8_kaBP	8391	48.33	10.09	Bockstein 	Beuronian
+NEO27	NEO27      Bredgården       NA	North-West_11-8_kaBP	9648	57.742	13.403	Bredgården 	NA
+Brillenhohle.pmds3filter	Brillenhohle      Brillenhöhle-Ach-Valley       Magdalenian	North-West_17-14_kaBP	14817	48.24	9.46	Brillenhöhle-Ach-Valley 	Magdalenian
+DOG002	DOG002      Brown Bank       NA	North-West_11-8_kaBP	10247	52.36	3.27	Brown Bank 	NA
+Chan	Chan      Chan do Lindeiro       NA	North-West_11-8_kaBP	9109	42.7343714	-7.0305368	Chan do Lindeiro 	NA
+Chaudardes1	Chaudardes1      Cuiry-lès-Chaudardes       Tardenoisian	North-West_11-8_kaBP	8193	49.24	3.46	Cuiry-lès-Chaudardes 	Tardenoisian
+I5876	I5876      Deriivka-1       Kukrek	East_11-8_kaBP	8832	48.91422	33.76493	Deriivka-1 	Kukrek
+I5885	I5885      Deriivka-1       Kukrek	East_11-8_kaBP	8099	48.91422	33.76493	Deriivka-1 	Kukrek
+DOG007	DOG007      Doggerland       NA	North-West_11-8_kaBP	9380	53	2.54	Doggerland 	NA
+DOG001	DOG001      Doggerland Eurogeul       NA	North-West_11-8_kaBP	9592	51.9842	4.07028	Doggerland Eurogeul 	NA
+NEO646	NEO646      El Mazo       Asturian	North-West_11-8_kaBP	8413	43.404	-4.707	El Mazo 	Asturian
+Falkenstein	Falkenstein      Falkenstein-Höhle       Beuronian	North-West_11-8_kaBP	9161	48.06	9.04	Falkenstein-Höhle 	Beuronian
+FRM001	FRM001      Farman       Beuronian	North-West_11-8_kaBP	9964	48.834	2.2712	Farman 	Beuronian
+Goughs_Cave	Goughs_Cave      Goughs Cave      Magdalenian	North-West_17-14_kaBP	14750	51.28191	-2.765488	Goughs Cave	Magdalenian
+Cheddar_man	Cheddar_man      Goughs Cave      NA	North-West_11-8_kaBP	10280	51.281679	-2.765746	Goughs Cave	NA
+GoyetQ-2	GoyetQ-2      Goyet Cave       Magdalenian	North-West_17-14_kaBP	15077	50.446	5.008	Goyet Cave 	Magdalenian
+GFW004	GFW004      Gross Fredenwalde       NA	North-West_11-8_kaBP	8376	53.1289	13.7954	Gross Fredenwalde 	NA
+GFW009	GFW009      Gross Fredenwalde       NA	North-West_11-8_kaBP	8093	53.1289	13.7954	Gross Fredenwalde 	NA
+R11	R11      Grotta Continenza       Epigravettian	South_14-11_kaBP	11868	41.958	13.5445	Grotta Continenza 	Epigravettian
+R15	R15      Grotta Continenza       Sauveterrian	South_11-8_kaBP	9086	41.958	13.5445	Grotta Continenza 	Sauveterrian
+R7	R7      Grotta Continenza       Sauveterrian	South_11-8_kaBP	10706	41.958	13.5445	Grotta Continenza 	Sauveterrian
+I2158	I2158      Grotta dOriente       Epigravettian	South_14-11_kaBP	12000	37.9333	12.3333	Grotta dOriente 	Epigravettian
+UZZ26	UZZ26      Grotta dellUzzo       Sauveterrian	South_11-8_kaBP	10666	38.1101	12.7866	Grotta dellUzzo 	Sauveterrian
+UZZ40	UZZ40      Grotta dellUzzo       Castelnovian	South_11-8_kaBP	8279	38.1101	12.7866	Grotta dellUzzo 	Castelnovian
+UZZ4446	UZZ4446      Grotta dellUzzo       Castelnovian	South_11-8_kaBP	8488	38.1101	12.7866	Grotta dellUzzo 	Castelnovian
+UZZ5054	UZZ5054      Grotta dellUzzo       Sauveterrian	South_11-8_kaBP	10661	38.1101	12.7866	Grotta dellUzzo 	Sauveterrian
+UZZ69	UZZ69      Grotta dellUzzo       Castelnovian	South_11-8_kaBP	8628	38.1101	12.7866	Grotta dellUzzo 	Castelnovian
+UZZ79	UZZ79      Grotta dellUzzo       Castelnovian	South_11-8_kaBP	8580	38.1101	12.7866	Grotta dellUzzo 	Castelnovian
+UZZ80	UZZ80      Grotta dellUzzo       Castelnovian	South_11-8_kaBP	8580	38.1101	12.7866	Grotta dellUzzo 	Castelnovian
+UZZ81	UZZ81      Grotta dellUzzo       Castelnovian	South_11-8_kaBP	8578	38.1101	12.7866	Grotta dellUzzo 	Castelnovian
+UZZ82	UZZ82      Grotta dellUzzo       Castelnovian	South_11-8_kaBP	8580	38.1101	12.7866	Grotta dellUzzo 	Castelnovian
+UZZ96	UZZ96      Grotta dellUzzo       Sauveterrian	South_11-8_kaBP	10250	38.1101	12.7866	Grotta dellUzzo 	Sauveterrian
+PRD001	PRD001      Grotte di Pradis       Epigravettian	South_14-11_kaBP	12991	46.25	12.89	Grotte di Pradis 	Epigravettian
+Bichon	Bichon      Grotte du Bichon       Azilian	North-West_14-11_kaBP	13698	47.0999985	6.86999989	Grotte du Bichon 	Azilian
+I4914	I4914      Hajdučka-Vodenica       Iron_Gates_Mesolithic	South_11-8_kaBP	8088	44.64026	22.30333	Hajdučka-Vodenica 	Iron_Gates_Mesolithic
+I4915	I4915      Hajdučka-Vodenica       Iron_Gates_Mesolithic	South_11-8_kaBP	8115	44.64026	22.30333	Hajdučka-Vodenica 	Iron_Gates_Mesolithic
+I4916	I4916      Hajdučka-Vodenica       Iron_Gates_Mesolithic	South_11-8_kaBP	8763	44.64026	22.30333	Hajdučka-Vodenica 	Iron_Gates_Mesolithic
+I4917	I4917      Hajdučka-Vodenica       Iron_Gates_Mesolithic	South_11-8_kaBP	8058	44.64026	22.30333	Hajdučka-Vodenica 	Iron_Gates_Mesolithic
+I5401	I5401      Hajdučka-Vodenica       Iron_Gates_Mesolithic	South_11-8_kaBP	8838	44.64026	22.30333	Hajdučka-Vodenica 	Iron_Gates_Mesolithic
+I5402	I5402      Hajdučka-Vodenica       Iron_Gates_Mesolithic	South_11-8_kaBP	8156	44.64026	22.30333	Hajdučka-Vodenica 	Iron_Gates_Mesolithic
+NEO18	NEO18      Hanaskede       NA	North-West_11-8_kaBP	9830	58.391	13.558	Hanaskede 	NA
+HohleFels10_79	HohleFels10_79      Hohle-Fels-Ach-Valley       Magdalenian	North-West_17-14_kaBP	14679	48.22	9.45	Hohle-Fels-Ach-Valley 	Magdalenian
+HohleFels49	HohleFels49      Hohle-Fels-Ach-Valley       Magdalenian	North-West_17-14_kaBP	15609	48.22	9.45	Hohle-Fels-Ach-Valley 	Magdalenian
+H22	H22      Hummervikholmen      NA	North-West_11-8_kaBP	9364	58.064	7.7437	Hummervikholmen	NA
+H26	H26      Hummervikholmen      NA	North-West_11-8_kaBP	9364	58.064	7.7437	Hummervikholmen	NA
+NEO17	NEO17      Hummervikholmen      NA	North-West_11-8_kaBP	9384	58.064	7.7437	Hummervikholmen	NA
+Iboussieres25-1	Iboussieres25-1      Iboussières       Azilian	North-West_14-11_kaBP	11675	44.29	4.46	Iboussières 	Azilian
+Iboussieres31-2	Iboussieres31-2      Iboussières       Azilian	North-West_14-11_kaBP	11675	44.29	4.46	Iboussières 	Azilian
+poz503	poz503      Kamienskie       Komornica	East_11-8_kaBP	8597	53.827056	22.042535	Kamienskie 	Komornica
+KVH002	KVH002      Karavaikha       Veretye	East_11-8_kaBP	8330	60.4565	38.639056	Karavaikha 	Veretye
+NEO555	NEO555      Karavaikha       Veretye	East_11-8_kaBP	8456	60.467835	38.900615	Karavaikha 	Veretye
+NEO557	NEO557      Karavaikha       Veretye	East_11-8_kaBP	8342	60.467835	38.900615	Karavaikha 	Veretye
+NEO558	NEO558      Karavaikha       Veretye	East_11-8_kaBP	8264	60.467835	38.900615	Karavaikha 	Veretye
+NEO559	NEO559      Karavaikha       Veretye	East_11-8_kaBP	8449	60.467835	38.900615	Karavaikha 	Veretye
+NEO560	NEO560      Karavaikha       Veretye	East_11-8_kaBP	8117	60.467835	38.900615	Karavaikha 	Veretye
+utigKAR001	utigKAR001      Karavaikha       Veretye	East_11-8_kaBP	8321	60.467835	38.900615	Karavaikha 	Veretye
+Kendricks_Cave	Kendricks_Cave      Kendricks Cave      Federmesser	North-West_14-11_kaBP	11905	53.333481	-3.855859	Kendricks Cave	Federmesser
+KentCavern_1	KentCavern_1      Kents Cavern       NA	North-West_11-8_kaBP	9257	50.468169	-3.503071	Kents Cavern 	NA
+NEO254	NEO254      Koelbjerg       Maglemose	North-West_11-8_kaBP	10420	55.404	10.133	Koelbjerg 	Maglemose
+NEO759	NEO759      Køge Sønakke       NA	North-West_11-8_kaBP	9167	55.402	12.367	Køge Sønakke 	NA
+I5407	I5407      Lepenski-Vir       Iron_Gates_Mesolithic	South_11-8_kaBP	8000	44.552924	22.027563	Lepenski-Vir 	Iron_Gates_Mesolithic
+Loschbour	Loschbour      Loschbour       Rhine-Meuse-Scheld	North-West_11-8_kaBP	8025	49.81	6.4	Loschbour 	Rhine-Meuse-Scheld
+DOG009	DOG009      Maasvlakte-2       NA	North-West_11-8_kaBP	8813	52.01	3.53	Maasvlakte-2 	NA
+DOG010	DOG010      Maasvlakte-2       NA	North-West_11-8_kaBP	8699	52.01	3.53	Maasvlakte-2 	NA
+MAF001	MAF001      Maisons-Alfort       Tardenoisian	North-West_11-8_kaBP	8865	48.8	2.43	Maisons-Alfort 	Tardenoisian
+MPR001	MPR001      Malonne Petit Ri       Beuronian	North-West_11-8_kaBP	10451	50.43	4.8	Malonne Petit Ri 	Beuronian
+MAZ003.pmds3filter	MAZ003      Maszycka       Magdalenian	East_17-14_kaBP	15572	49.9846	20.2846	Maszycka 	Magdalenian
+MNN001_002	MNN001_002      Minino 1       Butovo	East_11-8_kaBP	8540	59.42	39.3	Minino 1 	Butovo
+MNN005	MNN005      Minino 1       Butovo	East_11-8_kaBP	10499	59.42	39.3	Minino 1 	Butovo
+MNN006	MNN006      Minino 1       Butovo	East_11-8_kaBP	10657	59.42	39.3	Minino 1 	Butovo
+MNN007	MNN007      Minino 1       Butovo	East_11-8_kaBP	10916	59.42	39.3	Minino 1 	Butovo
+NEO536	NEO536      Minino 1       Butovo	East_11-8_kaBP	10181	59.42	39.3	Minino 1 	Butovo
+NEO537	NEO537      Minino 1       Butovo	East_11-8_kaBP	8434	59.42	39.3	Minino 1 	Butovo
+MN2001	MN2001      Minino-2       Butovo	East_11-8_kaBP	10550	59.42	39.3	Minino-2 	Butovo
+MN2002	MN2002      Minino-2       Butovo	East_11-8_kaBP	10657	59.42	39.3	Minino-2 	Butovo
+MN2003	MN2003      Minino-2       Butovo	East_11-8_kaBP	10526	59.42	39.3	Minino-2 	Butovo
+CMS001	CMS001      Moita do Sebastiao       Muge	North-West_11-8_kaBP	8067	39.246374	-8.647467	Moita do Sebastiao 	Muge
+stp001	stp001      Mont Saint Pierre       Rhine-Meuse-Scheld	North-West_11-8_kaBP	8119	49.257	3.973	Mont Saint Pierre 	Rhine-Meuse-Scheld
+OKL001	OKL001      Oberkassel       Federmesser	North-West_14-11_kaBP	13958	50.7119	7.1675	Oberkassel 	Federmesser
+OKL002	OKL002      Oberkassel       Federmesser	North-West_14-11_kaBP	13433	50.7119	7.1675	Oberkassel 	Federmesser
+Ogof_yr_ychen_1	Ogof_yr_ychen_1      Ogof-Yr-Ychen       Maglemose	North-West_11-8_kaBP	9580	51.63253	-4.692903	Ogof-Yr-Ychen 	Maglemose
+NEO122	NEO122      Orehoved Sejlrende       Kongemose	North-West_11-8_kaBP	8160	54.96	11.85	Orehoved Sejlrende 	Kongemose
+NEO123	NEO123      Orehoved Sejlrende       Kongemose	North-West_11-8_kaBP	8249	54.96	11.85	Orehoved Sejlrende 	Kongemose
+I4081	I4081      Ostrovul-Corbului       Iron_Gates_Mesolithic	South_11-8_kaBP	9361	44.517	22.722	Ostrovul-Corbului 	Iron_Gates_Mesolithic
+I4582	I4582      Ostrovul-Corbului       Iron_Gates_Mesolithic	South_11-8_kaBP	8618	44.517	22.722	Ostrovul-Corbului 	Iron_Gates_Mesolithic
+OC	OC      Ostrovul-Corbului       Iron_Gates_Mesolithic	South_11-8_kaBP	8704	44.517	22.722	Ostrovul-Corbului 	Iron_Gates_Mesolithic
+I5233	I5233      Padina       Iron_Gates_Mesolithic	South_11-8_kaBP	8001	44.595879	22.010568	Padina 	Iron_Gates_Mesolithic
+I5234	I5234      Padina       Iron_Gates_Mesolithic	South_11-8_kaBP	9500	44.595879	22.010568	Padina 	Iron_Gates_Mesolithic
+I5235	I5235      Padina       Iron_Gates_Mesolithic	South_11-8_kaBP	10835	44.595879	22.010568	Padina 	Iron_Gates_Mesolithic
+I5236	I5236      Padina       Iron_Gates_Mesolithic	South_11-8_kaBP	10038	44.595879	22.010568	Padina 	Iron_Gates_Mesolithic
+I5237	I5237      Padina       Iron_Gates_Mesolithic	South_11-8_kaBP	9500	44.595879	22.010568	Padina 	Iron_Gates_Mesolithic
+I5238	I5238      Padina       Iron_Gates_Mesolithic	South_11-8_kaBP	9993	44.595879	22.010568	Padina 	Iron_Gates_Mesolithic
+I5239	I5239      Padina       Iron_Gates_Mesolithic	South_11-8_kaBP	10333	44.595879	22.010568	Padina 	Iron_Gates_Mesolithic
+I5240	I5240      Padina       Iron_Gates_Mesolithic	South_11-8_kaBP	10805	44.595879	22.010568	Padina 	Iron_Gates_Mesolithic
+I5242	I5242      Padina       Iron_Gates_Mesolithic	South_11-8_kaBP	10530	44.595879	22.010568	Padina 	Iron_Gates_Mesolithic
+I5244	I5244      Padina       Iron_Gates_Mesolithic	South_11-8_kaBP	10785	44.595879	22.010568	Padina 	Iron_Gates_Mesolithic
+I5409	I5409      Padina       Iron_Gates_Mesolithic	South_11-8_kaBP	9500	44.595879	22.010568	Padina 	Iron_Gates_Mesolithic
+NEO554	NEO554      Pogostishche-1       Veretye	East_11-8_kaBP	8236	60.45	38.633	Pogostishche-1 	Veretye
+Ranchot88	Ranchot88      Ranchot       Sauveterrian	North-West_11-8_kaBP	10134	47.91	5.43	Ranchot 	Sauveterrian
+Rigney1	Rigney1      Rigney       Magdalenian	North-West_17-14_kaBP	15459	47.23	6.1	Rigney 	Magdalenian
+RIP001	RIP001      Riparo Tagliente       Epigravettian	South_17-14_kaBP	16736	45.5405501	11.0056531	Riparo Tagliente 	Epigravettian
+Rochedane	Rochedane      Rochedane       Azilian	North-West_14-11_kaBP	13027	47.21	6.45	Rochedane 	Azilian
+NEO19	NEO19      Rønsten       NA	North-West_11-8_kaBP	8268	56.27	10.472	Rønsten 	NA
+STO001	STO001      San Teodoro       Epigravettian	South_14-11_kaBP	13450	37.8478	14.6937	San Teodoro 	Epigravettian
+NEO694	NEO694      Santa Maira       Asturian	North-West_11-8_kaBP	9477	38.73	-0.463	Santa Maira 	Asturian
+I4607	I4607      Schela-Cladovei       Iron_Gates_Mesolithic	South_11-8_kaBP	8927	44.626111	22.605833	Schela-Cladovei 	Iron_Gates_Mesolithic
+I5411	I5411      Schela-Cladovei       Iron_Gates_Mesolithic	South_11-8_kaBP	8600	44.626111	22.605833	Schela-Cladovei 	Iron_Gates_Mesolithic
+I5436	I5436      Schela-Cladovei       Iron_Gates_Mesolithic	South_11-8_kaBP	9025	44.626111	22.605833	Schela-Cladovei 	Iron_Gates_Mesolithic
+NEO671	NEO671      Schela-Cladovei       Iron_Gates_Mesolithic	South_11-8_kaBP	9188	44.626111	22.605833	Schela-Cladovei 	Iron_Gates_Mesolithic
+NEO672	NEO672      Schela-Cladovei       Iron_Gates_Mesolithic	South_11-8_kaBP	9361	44.626111	22.605833	Schela-Cladovei 	Iron_Gates_Mesolithic
+SC1-Meso	SC1-Meso      Schela-Cladovei       Iron_Gates_Mesolithic	South_11-8_kaBP	8814	44.626111	22.605833	Schela-Cladovei 	Iron_Gates_Mesolithic
+SC2	SC2      Schela-Cladovei       Iron_Gates_Mesolithic	South_11-8_kaBP	8825	44.626111	22.605833	Schela-Cladovei 	Iron_Gates_Mesolithic
+Sidelkino	Sidelkino      Sidelkino-Mayak       Kukrek	East_14-11_kaBP	11321	54.53	51.11	Sidelkino-Mayak 	Kukrek
+Sbj001	Sbj001      Stora Bjers      Maglemose	North-West_11-8_kaBP	8771	57.792	18.538	Stora Bjers	Maglemose
+Sf11	Sf11      Stora Förvar      Maglemose	North-West_11-8_kaBP	8892	57.285	17.971	Stora Förvar	Maglemose
+Sf12	Sf12      Stora Förvar      Maglemose	North-West_11-8_kaBP	8895	57.285	17.971	Stora Förvar	Maglemose
+Sf913	Sf913      Stora Förvar      Maglemose	North-West_11-8_kaBP	9144	57.285	17.971	Stora Förvar	Maglemose
+NEO91	NEO91      Strøby Grøftemark      NA	North-West_11-8_kaBP	9112	55.393	12.307	Strøby Grøftemark	NA
+DOB001	DOB001      Urdhöhle       Beuronian	North-West_11-8_kaBP	9483	50.688401	11.640646	Urdhöhle 	Beuronian
+NEO497	NEO497      Vasylivka-1       Kukrek	East_14-11_kaBP	11275	48.220639	35.4035	Vasylivka-1 	Kukrek
+NEO501	NEO501      Vasylivka-1       Kukrek	East_14-11_kaBP	11254	48.220639	35.4035	Vasylivka-1 	Kukrek
+VSL002	VSL002      Vasylivka-1       Kukrek	East_11-8_kaBP	10483	48.220639	35.4035	Vasylivka-1 	Kukrek
+I1736	I1736      Vasylivka-2       Kukrek	East_11-8_kaBP	8110	47.434167	35.276389	Vasylivka-2 	Kukrek
+I1737	I1737      Vasylivka-2       Kukrek	East_11-8_kaBP	10358	47.434167	35.276389	Vasylivka-2 	Kukrek
+I1763	I1763      Vasylivka-3       Kukrek	East_11-8_kaBP	10081	47.434167	35.276389	Vasylivka-3 	Kukrek
+I1733	I1733      Vasylivka-4       Kukrek	East_11-8_kaBP	10200	47.434167	35.276389	Vasylivka-4 	Kukrek
+I1875	I1875      Vela-Spila       NA	South_11-8_kaBP	9056	42.96723	16.70719	Vela-Spila 	NA
+Villabruna	Villabruna      Villabruna       Epigravettian	South_17-14_kaBP	14021	46.15	12.21	Villabruna 	Epigravettian
+I4660	I4660      Vlasac       Iron_Gates_Mesolithic	South_11-8_kaBP	9713	44.533055	22.04991	Vlasac 	Iron_Gates_Mesolithic
+I4870	I4870      Vlasac       Iron_Gates_Mesolithic	South_11-8_kaBP	8740	44.533055	22.04991	Vlasac 	Iron_Gates_Mesolithic
+I4871	I4871      Vlasac       Iron_Gates_Mesolithic	South_11-8_kaBP	9750	44.533055	22.04991	Vlasac 	Iron_Gates_Mesolithic
+I4872	I4872      Vlasac       Iron_Gates_Mesolithic	South_11-8_kaBP	9750	44.533055	22.04991	Vlasac 	Iron_Gates_Mesolithic
+I4874	I4874      Vlasac       Iron_Gates_Mesolithic	South_11-8_kaBP	8499	44.533055	22.04991	Vlasac 	Iron_Gates_Mesolithic
+I4875	I4875      Vlasac       Iron_Gates_Mesolithic	South_11-8_kaBP	8458	44.533055	22.04991	Vlasac 	Iron_Gates_Mesolithic
+I4876	I4876      Vlasac       Iron_Gates_Mesolithic	South_11-8_kaBP	8455	44.533055	22.04991	Vlasac 	Iron_Gates_Mesolithic
+I4877	I4877      Vlasac       Iron_Gates_Mesolithic	South_11-8_kaBP	8505	44.533055	22.04991	Vlasac 	Iron_Gates_Mesolithic
+I4881	I4881      Vlasac       Iron_Gates_Mesolithic	South_11-8_kaBP	8869	44.533055	22.04991	Vlasac 	Iron_Gates_Mesolithic
+I5771	I5771      Vlasac       Iron_Gates_Mesolithic	South_11-8_kaBP	9750	44.533055	22.04991	Vlasac 	Iron_Gates_Mesolithic
+I5773	I5773      Vlasac       Iron_Gates_Mesolithic	South_11-8_kaBP	10040	44.533055	22.04991	Vlasac 	Iron_Gates_Mesolithic
+NEO677	NEO677      Vlasac       Iron_Gates_Mesolithic	South_11-8_kaBP	9175	44.533055	22.04991	Vlasac 	Iron_Gates_Mesolithic
+VLASA32-2	VLASA32-2      Vlasac       Iron_Gates_Mesolithic	South_11-8_kaBP	10223	44.533055	22.04991	Vlasac 	Iron_Gates_Mesolithic
+VLASA7-3	VLASA7-3      Vlasac       Iron_Gates_Mesolithic	South_11-8_kaBP	9170	44.533055	22.04991	Vlasac 	Iron_Gates_Mesolithic
+NEO527	NEO527      Voloske       Butovo	East_14-11_kaBP	11533	48.305	35.136	Voloske 	Butovo
+Burkhardtshohle.pmds3filter	Burkhardtshohle      Westerheim       Magdalenian	North-West_17-14_kaBP	14620	48.32	9.35	Westerheim 	Magdalenian
+I0061	I0061      Yuzhny Oleniy Ostrov       Onega	East_11-8_kaBP	8450	61.937725	35.260893	Yuzhny Oleniy Ostrov 	Onega
+I0211	I0211      Yuzhny Oleniy Ostrov       Onega	East_11-8_kaBP	8450	61.937725	35.260893	Yuzhny Oleniy Ostrov 	Onega
+UOO012	UOO012      Yuzhny Oleniy Ostrov       Onega	East_11-8_kaBP	8125	61.937725	35.260893	Yuzhny Oleniy Ostrov 	Onega
+UOO015	UOO015      Yuzhny Oleniy Ostrov       Onega	East_11-8_kaBP	8125	61.937725	35.260893	Yuzhny Oleniy Ostrov 	Onega
+UOO023	UOO023      Yuzhny Oleniy Ostrov       Onega	East_11-8_kaBP	8125	61.937725	35.260893	Yuzhny Oleniy Ostrov 	Onega
+UOO025	UOO025      Yuzhny Oleniy Ostrov       Onega	East_11-8_kaBP	8125	61.937725	35.260893	Yuzhny Oleniy Ostrov 	Onega
+UOO029	UOO029      Yuzhny Oleniy Ostrov       Onega	East_11-8_kaBP	8125	61.937725	35.260893	Yuzhny Oleniy Ostrov 	Onega
+UOO033	UOO033      Yuzhny Oleniy Ostrov       Onega	East_11-8_kaBP	8296	61.937725	35.260893	Yuzhny Oleniy Ostrov 	Onega
+UOO035_056	UOO035_056      Yuzhny Oleniy Ostrov       Onega	East_11-8_kaBP	8120	61.937725	35.260893	Yuzhny Oleniy Ostrov 	Onega
+UOO037	UOO037      Yuzhny Oleniy Ostrov       Onega	East_11-8_kaBP	8125	61.937725	35.260893	Yuzhny Oleniy Ostrov 	Onega
+UOO047	UOO047      Yuzhny Oleniy Ostrov       Onega	East_11-8_kaBP	8220	61.937725	35.260893	Yuzhny Oleniy Ostrov 	Onega
+UOO051	UOO051      Yuzhny Oleniy Ostrov       Onega	East_11-8_kaBP	8125	61.937725	35.260893	Yuzhny Oleniy Ostrov 	Onega
+UOO052	UOO052      Yuzhny Oleniy Ostrov       Onega	East_11-8_kaBP	8125	61.937725	35.260893	Yuzhny Oleniy Ostrov 	Onega
+UOO053	UOO053      Yuzhny Oleniy Ostrov       Onega	East_11-8_kaBP	8125	61.937725	35.260893	Yuzhny Oleniy Ostrov 	Onega
+UOO059	UOO059      Yuzhny Oleniy Ostrov       Onega	East_11-8_kaBP	8125	61.937725	35.260893	Yuzhny Oleniy Ostrov 	Onega
+NEO87	NEO87      Zamostye-2       Butovo	East_11-8_kaBP	8419	56.666	38.016	Zamostye-2 	Butovo
+NEO88	NEO88      Zamostye-2       Butovo	East_11-8_kaBP	8265	56.666	38.016	Zamostye-2 	Butovo
+I4550	I4550      Zvejnieki       Kunda	East_11-8_kaBP	8489	56.2833	25.1333	Zvejnieki 	Kunda
+I4630	I4630      Zvejnieki       Kunda	East_11-8_kaBP	9218	56.2833	25.1333	Zvejnieki 	Kunda
+Latvia_HG1	Latvia_HG1      Zvejnieki       Kunda	East_11-8_kaBP	8316	56.2833	25.1333	Zvejnieki 	Kunda
+NEO307	NEO307      Zvejnieki       Kunda	East_11-8_kaBP	8104	56.2833	25.1333	Zvejnieki 	Kunda
