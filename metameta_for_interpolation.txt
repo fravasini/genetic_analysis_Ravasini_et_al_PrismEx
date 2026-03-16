@@ -9,8 +9,6 @@ Bichon	Bichon West-North 14-11_kaBP	West-North_14-11_kaBP	13698	47.0999985	6.869
 Bockstein	Bockstein West-North 11-8_kaBP	West-North_11-8_kaBP	8391	48.33	10.09
 Brillenhohle.pmds3filter	Brillenhohle.pmds3filter West-North 17-14_kaBP	West-North_17-14_kaBP	14817	48.24	9.46
 Burkhardtshohle.pmds3filter	Burkhardtshohle.pmds3filter West-North 17-14_kaBP	West-North_17-14_kaBP	14620	48.32	9.35
-Brillenhohle	Brillenhohle West-North 17-14_kaBP	West-North_17-14_kaBP	14817	48.24	9.46
-Burkhardtshohle	Burkhardtshohle West-North 17-14_kaBP	West-North_17-14_kaBP	14620	48.32	9.35
 Chan	Chan West-North 11-8_kaBP	West-North_11-8_kaBP	9109	42.7343714	-7.0305368
 Chaudardes1	Chaudardes1 West-North 11-8_kaBP	West-North_11-8_kaBP	8193	49.24	3.46
 Cheddar_man	Cheddar_man West-North 11-8_kaBP	West-North_11-8_kaBP	10280	51.281679	-2.765746
@@ -78,15 +76,11 @@ I5876	I5876 East 11-8_kaBP	East_11-8_kaBP	8832	48.91422	33.76493
 I5885	I5885 East 11-8_kaBP	East_11-8_kaBP	8099	48.91422	33.76493
 Iboussieres25.1	Iboussieres25-1 West-North 14-11_kaBP	West-North_14-11_kaBP	11675	44.29	4.46
 Iboussieres31.2	Iboussieres31-2 West-North 14-11_kaBP	West-North_14-11_kaBP	11675	44.29	4.46
-Karelia_shotgun	Karelia_shotgun East 11-8_kaBP	East_11-8_kaBP	8450	61.937725	35.260893
 KentCavern_1	KentCavern_1 West-North 11-8_kaBP	West-North_11-8_kaBP	9257	50.468169	-3.503071
-Kotias	Kotias East 11-8_kaBP	East_11-8_kaBP	9678	42.28	43.28
-KVH001	KVH001 East 11-8_kaBP	East_11-8_kaBP	8373	60.4565	38.639056
 KVH002	KVH002 East 11-8_kaBP	East_11-8_kaBP	8330	60.4565	38.639056
 Latvia_HG1	Latvia_HG1 East 11-8_kaBP	East_11-8_kaBP	8316	56.2833	25.1333
 Loschbour	Loschbour West-North 11-8_kaBP	West-North_11-8_kaBP	8025	49.81	6.4
 MAF001	MAF001 West-North 11-8_kaBP	West-North_11-8_kaBP	8865	48.8	2.43
-MAZ003	MAZ003 East 17-14_kaBP	East_17-14_kaBP	15572	49.9846	20.2846
 MAZ003.pmds3filter	MAZ003.pmds3filter East 17-14_kaBP	East_17-14_kaBP	15572	49.9846	20.2846
 MN2001	MN2001 East 11-8_kaBP	East_11-8_kaBP	10550	59.42	39.3
 MN2002	MN2002 East 11-8_kaBP	East_11-8_kaBP	10657	59.42	39.3
@@ -103,14 +97,12 @@ NEO18	NEO18 West-North 11-8_kaBP	West-North_11-8_kaBP	9830	58.391	13.558
 NEO19	NEO19 West-North 11-8_kaBP	West-North_11-8_kaBP	8268	56.27	10.472
 NEO254	NEO254 West-North 11-8_kaBP	West-North_11-8_kaBP	10420	55.404	10.133
 NEO27	NEO27 West-North 11-8_kaBP	West-North_11-8_kaBP	9648	57.742	13.403
-NEO281	NEO281 East 11-8_kaBP	East_11-8_kaBP	9678	42.28	43.28
 NEO307	NEO307 East 11-8_kaBP	East_11-8_kaBP	8104	56.2833	25.1333
 NEO497	NEO497 East 14-11_kaBP	East_14-11_kaBP	11275	48.220639	35.4035
 NEO501	NEO501 East 14-11_kaBP	East_14-11_kaBP	11254	48.220639	35.4035
 NEO527	NEO527 East 14-11_kaBP	East_14-11_kaBP	11533	48.305	35.136
 NEO536	NEO536 East 11-8_kaBP	East_11-8_kaBP	10181	59.42	39.3
 NEO537	NEO537 East 11-8_kaBP	East_11-8_kaBP	8434	59.42	39.3
-NEO539	NEO539 East 11-8_kaBP	East_11-8_kaBP	10616	59.42	39.3
 NEO554	NEO554 East 11-8_kaBP	East_11-8_kaBP	8236	60.45	38.633
 NEO555	NEO555 East 11-8_kaBP	East_11-8_kaBP	8456	60.467835	38.900615
 NEO557	NEO557 East 11-8_kaBP	East_11-8_kaBP	8342	60.467835	38.900615
@@ -118,8 +110,6 @@ NEO558	NEO558 East 11-8_kaBP	East_11-8_kaBP	8264	60.467835	38.900615
 NEO559	NEO559 East 11-8_kaBP	East_11-8_kaBP	8449	60.467835	38.900615
 NEO560	NEO560 East 11-8_kaBP	East_11-8_kaBP	8117	60.467835	38.900615
 NEO646	NEO646 West-North 11-8_kaBP	West-North_11-8_kaBP	8413	43.404	-4.707
-NEO655	NEO655 South 11-8_kaBP	South_11-8_kaBP	9175	44.533055	22.04991
-NEO657	NEO657 South 11-8_kaBP	South_11-8_kaBP	9175	44.533055	22.04991
 NEO671	NEO671 South 11-8_kaBP	South_11-8_kaBP	9188	44.626111	22.605833
 NEO672	NEO672 South 11-8_kaBP	South_11-8_kaBP	9361	44.626111	22.605833
 NEO677	NEO677 South 11-8_kaBP	South_11-8_kaBP	9175	44.533055	22.04991
@@ -141,7 +131,6 @@ Ranchot88	Ranchot88 West-North 11-8_kaBP	West-North_11-8_kaBP	10134	47.91	5.43
 Rigney1	Rigney1 West-North 17-14_kaBP	West-North_17-14_kaBP	15459	47.23	6.1
 RIP001	RIP001 South 17-14_kaBP	South_17-14_kaBP	16736	45.5405501	11.0056531
 Rochedane	Rochedane West-North 14-11_kaBP	West-North_14-11_kaBP	13027	47.21	6.45
-Satsurblia	Satsurblia East 14-11_kaBP	East_14-11_kaBP	13282	42.40586	42.581835
 Sbj001	Sbj001 West-North 11-8_kaBP	West-North_11-8_kaBP	8771	57.792	18.538
 SC1.Meso	SC1-Meso South 11-8_kaBP	South_11-8_kaBP	8814	44.626111	22.605833
 SC2	SC2 South 11-8_kaBP	South_11-8_kaBP	8825	44.626111	22.605833
@@ -179,6 +168,5 @@ Villabruna	Villabruna South 17-14_kaBP	South_17-14_kaBP	14021	46.15	12.21
 VLASA32.2	VLASA32-2 South 11-8_kaBP	South_11-8_kaBP	10223	44.533055	22.04991
 VLASA7.3	VLASA7-3 South 11-8_kaBP	South_11-8_kaBP	9170	44.533055	22.04991
 VSL002	VSL002 East 11-8_kaBP	East_11-8_kaBP	10483	48.220639	35.4035
-ZBC	ZBC South 17-14_kaBP	South_17-14_kaBP	15411	37.483333	33.033333
 Goughs_Cave	Goughs_Cave West-North 17-14_kaBP	West-North_17-14_kaBP	14750	51.28191	-2.765488
 Kendricks_Cave	Kendricks_Cave West-North 14-11_kaBP	West-North_14-11_kaBP	11905	53.333481	-3.855859
