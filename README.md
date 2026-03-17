@@ -3,7 +3,7 @@
 Code to replicate IDW interpolation maps of MDS values and phylogenetic tree starting from EIGENSTRAT files as in Ravasini et al.
 
 
-`Compute_f2_and_make_simple_tree.R` --> To compute f2-statistics from EIGENSTRAT values with [admixtools](https://uqrmaie1.github.io/admixtools/index.html).
+`Compute_f2_and_make_simple_tree_and_heatmap.R` --> To compute f2-statistics from EIGENSTRAT file format with [admixtools](https://uqrmaie1.github.io/admixtools/index.html). Then make and save a simple NJ tree in newick format and make heatmap. Population column of the .ind file of the EIGENSTRAT format needs to be changed accordingly (one sample = one population for individual pairwise analyses, like tree and interpolation; samples grouped by sector/time slices for comparisons between groups, like in the heatmap).
 
 `IDW_Interpolation_map.R` --> To produce the interpolation maps based on the first dimension of the MDS, as in figure 4 of the paper.
 
