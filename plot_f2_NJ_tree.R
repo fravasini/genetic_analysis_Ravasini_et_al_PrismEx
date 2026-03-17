@@ -151,4 +151,4 @@ p_final <- p +
 p_final
 
 
-# IMPORTANT! the final plot was manually modified to remove the remaining branches under the collapsed triangles
+# IMPORTANT! the final plot was manually curated to remove the remaining branches under the collapsed triangles
