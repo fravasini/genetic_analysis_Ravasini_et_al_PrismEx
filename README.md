@@ -1,6 +1,6 @@
 # genetic_analysis_Ravasini_et_al_PrismEx
 
-Code to replicate IDW interpolation maps of MDS values and phylogenetic tree starting from EIGENSTRAT file as in Ravasini et al.
+Code to replicate IDW interpolation maps of MDS values and phylogenetic tree starting from EIGENSTRAT files as in Ravasini et al.
 
 
 `Compute_f2_and_make_simple_tree.R` --> To compute f2-statistics from EIGENSTRAT values with [admixtools](https://uqrmaie1.github.io/admixtools/index.html).
