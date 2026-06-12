@@ -11,4 +11,6 @@ Code to replicate IDW interpolation maps of MDS values and phylogenetic tree sta
 
 `plot_f2_NJ_tree.R` --> To produce the tree with the collapsed branches if all the samples downstream of the node belong to the same culture (ATU 2.1 in the paper), as in figure 5 of the paper. Please note that the tree in figure 5 was additionally manually curated for a better representation.
 
+`Individuals_permutation_f2_correlation_with_time_and_space.R` --> To compute Speraman's rank correlation test for f2 pairwise and spatial or temporal distance permuting for individuals instead of pairwise comparisons.
+
 `metadata_for_tree_figure.txt` --> Example of the metadata file required for the tree figure.
