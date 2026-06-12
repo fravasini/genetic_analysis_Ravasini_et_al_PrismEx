@@ -1,5 +1,6 @@
 # to test continuity/discontinuity between time period in the same region
-# M is the f2-pairwise matrix, meta is a metafile with 
+# M is the f2-pairwise matrix, meta is a metafile with a column 'region' and a column 'timeslice',
+# in the function specify the region and the two timeslice ffor checking the continuity/discontinuity (t1 and t2).
 
 ks_continuity <- function(M, meta, region, t1, t2, B = 10000) {
   idx <- which(meta$region == region & meta$timeslice %in% c(t1, t2))
@@ -19,4 +20,5 @@ ks_continuity <- function(M, meta, region, t1, t2, B = 10000) {
              p = (1 + sum(perm >= obsD)) / (B + 1))
 }
 
-ks_continuity(m, meta2, "West-North", "17-14_kaBP", "14-11_kaBP")
+# example to check continuity/discontinuity in the North-West across 14 ka BP 
+ks_continuity(m, meta2, "North-West", "17-14_kaBP", "14-11_kaBP")
