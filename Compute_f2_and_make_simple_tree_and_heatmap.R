@@ -82,3 +82,24 @@ pheatmap(
   number_color = "black",
   fontsize_number = 8
 )
+
+
+# MDS
+mds <- cmdscale(f2_dist, eig = TRUE)
+
+coords <- as.data.frame(mds$points)
+names(coords) <- paste0("Dim", seq_len(ncol(coords)))
+coords$Sample_name <- rownames(m)
+
+
+# clustering of the MDS first 2 components and plot
+plot_k <- function(k) {
+  set.seed(1)
+  cl <- factor(kmeans(X, centers = k, nstart = 25)$cluster)
+  ggplot(coords, aes(Dim1, Dim2, fill = cl)) +
+    geom_point(size = 3, shape = 21, colour = "black", stroke = .4) +
+    scale_fill_brewer(palette = "Set1") +
+    ggtitle(paste0("k = ", k)) + theme_bw() + theme(legend.position = "none")
+}
+# visualize k = 2 to k = 10
+wrap <- wrap_plots(lapply(c(2, 3, 4, 5, 6, 7, 8, 9, 10 ), plot_k), nrow = 3, ncol = 3)
